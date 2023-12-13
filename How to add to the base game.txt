@@ -1,0 +1,7 @@
+how to add to the base game 
+
+1) copy MISSIONS folder 
+2) go to where the game main root folder so an example (/Local disk (C:)/Program Files (x86)/GOG Galaxy/Games) or (/Local disk (C:)/Program Files (x86)/Steam/steamapps/commom/STAR WARS Tie fighter)
+3) paste the MISSIONS folder into main root folder the folder that holds all the game data  for steam it the folder called Remastered and GOG it's Star wars - Tie Fighter (1998)
+4) it will ask you if you want to replace files say yes to all
+5) have fun
